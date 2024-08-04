@@ -1,3 +1,7 @@
-# This is a test
+Loading... |████████████████████| 100%
 
-Welcome to my GitHub profile.
+#### Building `meaningful` web applications
+- Check out my projects at [bryson.camp](https://bryson.camp)
+  - Hello
+ 
+~~~ sdfsdfsdfsdfsdf ~~~
