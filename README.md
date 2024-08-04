@@ -4,5 +4,9 @@ Loading... |████████████████████| 100%
 - Check out my projects at [bryson.camp](https://bryson.camp)
   - Hello
 
- ``` npm install hello ```
-~~~ sdfsdfsdfsdfsdf ~~~
+ ``` 
+npm install willpower
+```
+```
+npm run willpower.boost
+```
