@@ -1,13 +1,11 @@
-Loading... |████████████████████| 100%
+## Building Creative Web Applications
 
-### Building `meaningful` web applications
-- Check out my projects at [bryson.camp](https://bryson.camp)
-  - [pyfiddle.net](https://pyfiddle.net)
-  - [mealbatch.com](https://mealbatch.com)
-  - [vudoku.com](https://vudoku.com)
-  - [bothshift.com](https://bothshift.com)
+Hi, I’m Bryson — a junior full stack developer focused on crafting intuitive user experiences and scalable back-end systems. I enjoy building innovative tools that solve real problems.
 
-#### Need motivation?
- ``` 
-npm install willpower
-```
+### Featured Projects
+- [cheap.chat](https://cheap.chat) – A no-subscription AI chatbot platform using OpenAI and Perplexity, designed for flexible, pay-as-you-go access.
+- [pyfiddle.net](https://pyfiddle.net) – A browser-based Python IDE for running and sharing code instantly.
+- [bryson.camp](https://bryson.camp) – My portfolio and full list of projects.
+
+### Tech Stack
+JavaScript / TypeScript · React · Node.js · Python · AWS (Cognito, Lambda, DynamoDB) · MongoDB · GitHub Actions
